@@ -1,0 +1,157 @@
+#background {
+    background-color: #a7bcb9;
+    opacity: 0.1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+}
+
+.content {
+    position: relative;
+    z-index: 1;
+}
+
+.storytext {
+    text-align: center;
+    font-size: 12px;
+    color: black;
+}
+
+.storypics {
+    float: left;
+    padding-left: 19px;
+}
+
+.mr-2 {
+    margin-right: 2;
+    height: 33px;
+    width: 33px;
+    border-radius: 50%;
+    margin-right: 13px;
+}
+
+.info {
+    text-align: right;
+}
+
+.card-header {
+    background-color: #fff;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.card-header {
+    height: 60px;
+}
+
+.bt-icon {
+    display: inline-block;
+}
+
+.icons {
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.like-pics {
+    height: 24px;
+    width: 24px;
+    float: left;
+    margin-right: 11px;
+    margin-left: 15px;
+}
+
+.like-info {
+    margin-bottom: 12px;
+}
+
+.who-likes {
+    font-size: 14px;
+    margin-bottom: 4px;
+}
+
+.aciklama {
+    margin-left: 15px;
+}
+
+.time {
+    opacity: 0.5;
+    font-size: 11px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+#username {
+    opacity: 0.5;
+    font-size: 14px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+}
+
+#n-hilmiay {
+    margin-bottom: 2px;
+    padding-bottom: 0px;
+}
+
+.username {
+    margin-left: 15px;
+    margin-top: 7px;
+}
+
+#gecis {
+    text-decoration: none;
+    font-size: 12px;
+    margin-right: 0px;
+    padding-bottom: 2px;
+}
+
+.rightpanel {
+    margin-left: 20px;
+    margin-top: 20px;
+    position: fixed;
+}
+
+.icon-save {
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+.rec {
+    margin-top: 15px;
+}
+
+.nav-icons {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+nav {
+    height: 54px;
+    background-color: #fff;
+    margin-bottom: 30px;
+}
+
+.logo {
+    margin-top: 0px;
+    background-color: #fff;
+    height: 54px;
+    border: none;
+}
+
+.col-auto {
+    margin-right: 15px;
+}
+
+.comment-like:hover {
+    opacity: 0.5;
+}
+
+.head {
+    position: fixed;
+}
